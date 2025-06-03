@@ -53,3 +53,16 @@ php artisan migrate
 php artisan storage:link
 php artisan serve
 
+📚 Technologies utilisées
+Laravel 11
+
+PHP 8.3+
+
+Bootstrap 5
+
+Intervention/Image
+
+Enum PHP natif
+
+✍️ Auteur
+Rayan Kuhn – Développeur en formation, passionné, en reconversion 🚀
