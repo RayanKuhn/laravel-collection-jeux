@@ -37,7 +37,18 @@ Laravel Collection Jeux is a mini-app built with **Laravel 11** and **Bootstrap 
 
 ## 📸 Screenshots
 
-_(à venir)_
+### 🏠 Page d’accueil
+![Accueil](public/screenshots/homepage.png)
+
+### 📁 Liste des jeux avec filtres
+![Index](public/screenshots/games-index.png)
+
+### ➕ Ajouter un jeu
+![Create](public/screenshots/create-form.png)
+
+### 🔍 Fiche de détail
+![Show](public/screenshots/show-view.png)
+
 
 ---
 
