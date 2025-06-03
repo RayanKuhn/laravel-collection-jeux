@@ -66,4 +66,4 @@ Intervention/Image
 Enum PHP natif
 
 ### ✍️ Auteur
-Rayan Kuhn – Développeur en formation, passionné, en reconversion 🚀
+Rayan Kuhn – Développeur en formation, passionné, en reconversion
