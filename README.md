@@ -54,7 +54,7 @@ php artisan storage:link
 php artisan serve
 ```
 
-📚 Technologies utilisées
+### 📚 Technologies utilisées
 Laravel 11
 
 PHP 8.3+
@@ -65,5 +65,5 @@ Intervention/Image
 
 Enum PHP natif
 
-✍️ Auteur
+### ✍️ Auteur
 Rayan Kuhn – Développeur en formation, passionné, en reconversion 🚀
