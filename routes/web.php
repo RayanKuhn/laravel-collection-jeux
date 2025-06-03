@@ -3,14 +3,13 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HelloController;
 use App\Http\Controllers\GameController;
+use App\Models\Game;
 
 
 Route::get('/', function () {
-    return view('home');
-})->name('home');
-
-
-Route::get('/hello', [HelloController::class, 'index']);
+    $latestGames = Game::latest()->take(3)->get();
+    return view('home', compact('latestGames'));
+});
 
 Route::get('/games', [GameController::class, 'index'])->name('games.index');
 
